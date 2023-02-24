@@ -9,7 +9,7 @@ services:
   t1_ap:
     init: true
     container_name: t1_ap
-    image: image: ghcr.io/spr-networks/turtles-feb_t1_ap:latest
+    image: ghcr.io/spr-networks/turtles-feb_t1_ap:latest
     cap_add:
       - NET_ADMIN
       - NET_RAW
@@ -17,7 +17,7 @@ services:
   t1_sta2:
     init: true
     container_name: t1_sta2
-    image: image: ghcr.io/spr-networks/turtles-feb_t1_sta2:latest
+    image: ghcr.io/spr-networks/turtles-feb_t1_sta2:latest
     cap_add:
       - NET_ADMIN
       - NET_RAW
@@ -25,7 +25,7 @@ services:
   t1_start:
     init: true
     container_name: t1_start
-    image: image: ghcr.io/spr-networks/turtles-feb_t1_start:latest
+    image: ghcr.io/spr-networks/turtles-feb_t1_start:latest
     cap_add:
       - NET_ADMIN
       - NET_RAW
