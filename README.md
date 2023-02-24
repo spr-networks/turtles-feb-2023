@@ -2,6 +2,8 @@
 
 Last month's turtles challenge can be found [here](https://github.com/spr-networks/turtles-january-23)
 
+![image](https://user-images.githubusercontent.com/37549748/221100662-c2036ccc-81bd-4f5d-a43b-b62d82737358.png)
+
 ## Rules 
 1. Submit writeups by e-mail to turtles@supernetworks.org
 2. The best writeup along with the first two writeups (that are correct) will be awarded pis as prizes. Writeups should include functional exploits/scripts.
