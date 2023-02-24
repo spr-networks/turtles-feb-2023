@@ -4,7 +4,7 @@
 
 This is a self hosted challenge -- your goal is to collect 6 flags. 
 
-You can either run the containers here or play along in your web browser at [https://turtles.supernetworks.org](https://turtles.supernetworks.org)
+You can either run the containers here or play along in your web browser at [https://turtles.supernetworks.org/february](https://turtles.supernetworks.org/february)
 
 ![image](https://user-images.githubusercontent.com/37549748/221100662-c2036ccc-81bd-4f5d-a43b-b62d82737358.png)
 "Dominic J. Lopez UFO Turtle, 2021"
