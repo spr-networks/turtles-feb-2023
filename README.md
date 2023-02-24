@@ -2,7 +2,7 @@
 
 Last month's turtles challenge can be found [here](https://github.com/spr-networks/turtles-january-23)
 
-![image](https://user-images.githubusercontent.com/37549748/221100662-c2036ccc-81bd-4f5d-a43b-b62d82737358.png)
+![image](https://user-images.githubusercontent.com/37549748/221100662-c2036ccc-81bd-4f5d-a43b-b62d82737358.png "Dominic J. Lopez UFO Turtle, 2021")
 
 ## Rules 
 1. Submit writeups by e-mail to turtles@supernetworks.org
