@@ -77,7 +77,7 @@ def sm(S):
     transmit = True
     if S[0] == 0:
       os.system("iw dev %s set channel %d; echo $? > /tmp/switch" % (interface, 1))
-      N=20
+      N=16
       S[1] = secrets.randbelow(1<<N)
       PRNG = lfsr(([0],[3]), N, S[1])
       for i in range(5):
