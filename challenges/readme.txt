@@ -39,10 +39,11 @@ iface: wlan4 or wlan5, channel: 5
 # challenge 6
 
 t4.py see if you can talk to it on channel 10 & make it send 
-you the flag. use this as psk to connect to the network &
-check the traffic
+you the flag. use this as psk to connect to the network
 
 iface: wlan4 or wlan5, channel: 10
+
+NOTE docker version is running on channel 5
 
 # tips
 🛸 Be patient, scapy load time can be slow
